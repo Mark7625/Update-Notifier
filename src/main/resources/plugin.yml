@@ -1,0 +1,6 @@
+name: UpdateNotifier
+version: 1
+api-version: 1.16
+main: com.cube.notifier.Update
+author: Gravition
+prefix: UN
